@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.checkoutLayout {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.returnCart {
+    flex: 1;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.right {
+    flex: 1;
+    background: #5358B3;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.form .group {
+    margin-bottom: 15px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form input, .form select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.return .row {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.buttonCheckout {
+    width: 100%;
+    padding: 10px;
+    background: #49D8B9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
