@@ -30,8 +30,7 @@ https://templatemo.com/tm-589-lugx-gaming
 
 <body>
 
-  <!-- ***** Preloader Start ***** -->
-  
+
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
