@@ -1,10 +1,13 @@
-<head>
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Lugx Gaming Shop HTML5 Template</title>
+    <title>Epic Quest Games</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -16,23 +19,19 @@
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
 
+TemplateMo 589 lugx gaming
+
+https://templatemo.com/tm-589-lugx-gaming
+
+-->
   </head>
 
 <body>
 
   <!-- ***** Preloader Start ***** -->
-  <div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!-- ***** Preloader End ***** -->
+  
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
@@ -41,17 +40,17 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.php" class="logo">
+                    <a href="index.html" class="logo">
                         <img src="assets/images/logo no bg.png" alt="" style="width: 158px;">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                      <li><a href="index.php" class="active">Home</a></li>
-                      <li><a href="shop.php">Our Shop</a></li>
+                      <li><a href="index.html" class="active">Home</a></li>
+                      <li><a href="shop.html">Our Shop</a></li>
                       
-                      <li><a href="checkout.php">Checkout</a></li>
-                      <li><a href="sign-in.php">Sign In</a></li>
+                      <li><a href="checkout.html">Checkout</a></li>
+                      <li><a href="sign-in.html">Sign In</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
@@ -97,58 +96,58 @@
         </div>
         <div class="col-lg-6">
           <div class="main-button">
-            <a href="shop.php">View All</a>
+            <a href="shop.html">View All</a>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="item">
             <div class="thumb">
-              <a href="skyrim-details.php"><img src="assets/images/trending-09.jpg" alt=""></a>
+              <a href="skyrim-details.html"><img src="assets/images/trending-09.jpg" alt=""></a>
               <span class="price"><em>₱1199</em> ₱299</span>
             </div>
             <div class="down-content">
               <span class="category">MMORPG</span>
               <h4>ELDER SCROLLS V</h4>
-              <a href="skyrim-details.php"><i class="fa fa-shopping-bag"></i></a>
+              <a href="skyrim-details.html"><i class="fa fa-shopping-bag"></i></a>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="item">
             <div class="thumb">
-              <a href="genshin-details.php"><img src="assets/images/trending-06.jpg" alt=""></a>
+              <a href="genshin-details.html"><img src="assets/images/trending-06.jpg" alt=""></a>
               <span class="price"><em>₱799</em> ₱299</span>
             </div>
             <div class="down-content">
               <span class="category">OPEN-WORLD</span>
               <h4>GENSHIN IMPACT</h4>
-              <a href="genshin-details.php"><i class="fa fa-shopping-bag"></i></a>
+              <a href="genshin-details.html"><i class="fa fa-shopping-bag"></i></a>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="item">
             <div class="thumb">
-              <a href="hsr-details.php"><img src="assets/images/hs.png" alt=""></a>
+              <a href="hsr-details.html"><img src="assets/images/hs.png" alt=""></a>
               <span class="price"><em>₱899</em> ₱699</span>
             </div>
             <div class="down-content">
               <span class="category">TURN-BASED</span>
               <h4>HONKAI: STAR RAIL</h4>
-              <a href="hsr-details.php"><i class="fa fa-shopping-bag"></i></a>
+              <a href="hsr-details.html"><i class="fa fa-shopping-bag"></i></a>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-6">
           <div class="item">
             <div class="thumb">
-              <a href="wuwa-details.php"><img src="assets/images/wuthering.jpeg" alt=""></a>
+              <a href="wuwa-details.html"><img src="assets/images/wuthering.jpeg" alt=""></a>
               <span class="price"><em>₱999</em> ₱499</span>
             </div>
             <div class="down-content">
               <span class="category">OPEN-WORLD</span>
               <h4>WUTHERING WAVES</h4>
-              <a href="wuwa-details.php"><i class="fa fa-shopping-bag"></i></a>
+              <a href="wuwa-details.html"><i class="fa fa-shopping-bag"></i></a>
             </div>
           </div>
         </div>
@@ -167,78 +166,78 @@
         </div>
         <div class="col-lg-6">
           <div class="main-button">
-            <a href="shop.php">View All</a>
+            <a href="shop.html">View All</a>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="wuwa-details.php"><img src="assets/images/wuthering.jpeg" alt=""></a>
+              <a href="wuwa-details.html"><img src="assets/images/wuthering.jpeg" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">OPEN-WORLD</span>
                 <h4>WUTHERING WAVES</h4>
-                <a href="wuwa-details.php">Explore</a>
+                <a href="wuwa-details.html">Explore</a>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="genshin-details.php"><img src="assets/images/trending-06.jpg" alt=""></a>
+              <a href="genshin-details.html"><img src="assets/images/trending-06.jpg" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">OPEN-WORLD</span>
                 <h4>GENSHIN IMPACT</h4>
-                <a href="genshin-details.php">Explore</a>
+                <a href="genshin-details.html">Explore</a>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="hsr-details.php"><img src="assets/images/hs.png" alt=""></a>
+              <a href="hsr-details.html"><img src="assets/images/hs.png" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">TURN-BASED</span>
                 <h4>HONKAI: STAR RAIL</h4>
-                <a href="hsr-details.php">Explore</a>
+                <a href="hsr-details.html">Explore</a>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="persona-details.php"><img src="assets/images/p.webp" alt=""></a>
+              <a href="persona-details.html"><img src="assets/images/p.webp" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">TURN-BASED</span>
                 <h4>PERSONA 5</h4>
-                <a href="persona-details.php">Explore</a>
+                <a href="persona-details.html">Explore</a>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="destiny-details.php"><img src="assets/images/trending-02.jpg" alt=""></a>
+              <a href="destiny-details.html"><img src="assets/images/trending-02.jpg" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">MMORPG</span>
                 <h4>DESTINY 2</h4>
-                <a href="destiny-details.php">Explore</a>
+                <a href="destiny-details.html">Explore</a>
             </div>
           </div>
         </div>
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="item">
             <div class="thumb">
-              <a href="skyrim-details.php"><img src="assets/images/trending-09.jpg" alt=""></a>
+              <a href="skyrim-details.html"><img src="assets/images/trending-09.jpg" alt=""></a>
             </div>
             <div class="down-content">
                 <span class="category">MMORPG</span>
                 <h4>ELDER SCROLLS V</h4>
-                <a href="skyrim-details.php">Explore</a>
+                <a href="skyrim-details.html">Explore</a>
             </div>
           </div>
         </div>
@@ -259,7 +258,7 @@
           <div class="item">
             <h4>TURN-BASED</h4>
             <div class="thumb">
-              <a href="shop.php?filter=turn-based"><img src="assets/images/Version_1.0_Wallpaper_star_rail.png" alt=""></a>
+              <a href="shop.html?filter=turn-based"><img src="assets/images/Version_1.0_Wallpaper_star_rail.png" alt=""></a>
             </div>
           </div>
         </div>
@@ -267,7 +266,7 @@
           <div class="item">
             <h4>MMORPG</h4>
             <div class="thumb">
-              <a href="shop.php?filter=mmorpg"><img src="assets/images/final_fantasy.jpeg" alt=""></a>
+              <a href="shop.html?filter=mmorpg"><img src="assets/images/final_fantasy.jpeg" alt=""></a>
             </div>
           </div>
         </div>
@@ -275,7 +274,7 @@
           <div class="item">
             <h4>OPEN-WORLD</h4>
             <div class="thumb">
-              <a href="shop.php?filter=open-world"><img src="assets/images/trending-06.jpg" alt=""></a>
+              <a href="shop.html?filter=open-world"><img src="assets/images/trending-06.jpg" alt=""></a>
             </div>
           </div>
         </div>
@@ -299,7 +298,7 @@
                 </div>
                 <p>Pre-order now and get exclusive freebies themed after your chosen game!</p>
                 <div class="main-button">
-                  <a href="shop.php">Shop Now</a>
+                  <a href="shop.html">Shop Now</a>
                 </div>
               </div>
             </div>
@@ -330,8 +329,8 @@
   <footer>
     <div class="container">
       <div class="col-lg-12">
-        <p>Copyright © 2025 Epic Quest Games. All rights reserved. &nbsp;&nbsp; <a rel="nofollow" href="https://templatemo.com" target="_blank">Design: TemplateMo</a></p>
-      </div>
+               <p>Copyright © 2025 Epic Quest Games. All rights reserved. &nbsp;&nbsp; <a rel="nofollow" href="https://templatemo.com" target="_blank"></a></p>
+            </div>
     </div>
   </footer>
 
@@ -345,3 +344,4 @@
   <script src="assets/js/custom.js"></script>
 
   </body>
+</html>
